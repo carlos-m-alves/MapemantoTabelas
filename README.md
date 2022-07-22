@@ -3,14 +3,14 @@
 Algoritmo que mapeia as tabelas físicas que são usadas nos scripts SQL. Esse script roda combinando o banco de dados Teradata para gravar as informações.
 O resultado final é uma tabela com as seguintes informações:
 
--caminho
--nomeArquivo
--1
--ordems
--tabela
--operador
--diaExecucao
--dtCriacaoArquivo
--dtEdicaoArquivo
--criadorArquivo
+- caminho
+- nomeArquivo
+- 1
+- ordems
+- tabela
+- operador
+- diaExecucao
+- dtCriacaoArquivo
+- dtEdicaoArquivo
+- criadorArquivo
 
