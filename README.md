@@ -10,5 +10,5 @@ O resultado final é uma tabela com as seguintes informações:<br/><br/>
 - Operador que está sendo aplicado na tabela
 - Dia da execução do algoritmo
 - Data de Criação do Arquivo
-- Data de Ediçã do Arquivo
+- Data de Edição do Arquivo
 - Nome do Criador Arquivo
